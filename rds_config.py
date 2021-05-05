@@ -1,0 +1,7 @@
+floodDB_name = 'flood'
+floodDBcluster_endpoint = 'ec2-52-20-129-243.compute-1.amazonaws.com'
+floodDBcluster_username = 'root'
+floodDBcluster_password = 'floodwarningsystem'
+SSH_user = 'bitnami'
+SSH_password = 'Floodwarningsystems'
+SSH_private_key = 'private_key.pem'
